@@ -23,7 +23,7 @@ setInterval(()=>{
     }
     myFun()
 },2000)
-console.log("remove changes")
+console.log("remove changes done")
 // Dark Fun
 dark.addEventListener("click",function(){
     document.querySelector("body").classList.toggle('active1')
