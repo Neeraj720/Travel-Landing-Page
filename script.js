@@ -23,7 +23,7 @@ setInterval(()=>{
     }
     myFun()
 },2000)
-console.log("change script file")
+console.log("change script file after cloaning")
 // Dark Fun
 dark.addEventListener("click",function(){
     document.querySelector("body").classList.toggle('active1')
