@@ -22,7 +22,7 @@ setInterval(() => {
   }
   myFun();
 }, 2000);
-console.log("Changed the code in Development branch fetures")
+console.log("Changed the code in Development branch Again")
 // Dark Fun
 dark.addEventListener("click", function () {
   document.querySelector("body").classList.toggle("active1");
