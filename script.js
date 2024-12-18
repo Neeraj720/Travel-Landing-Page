@@ -23,6 +23,7 @@ setInterval(() => {
   myFun();
 }, 2000);
 console.log("New Branch Created")
+console.log("new branch created")
 // Dark Fun
 dark.addEventListener("click", function () {
   document.querySelector("body").classList.toggle("active1");
